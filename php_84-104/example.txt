@@ -1,0 +1,1 @@
+text can be changed by fwrite and a variable.
